@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "548893621695",
+    "firebase_url": "https://tesnotif-781f4.firebaseio.com",
+    "project_id": "tesnotif-781f4",
+    "storage_bucket": "tesnotif-781f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548893621695:android:4d10c93e485043f1",
+        "android_client_info": {
+          "package_name": "id.web.klubaners"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "548893621695-9h89fm67bd8mbp9n6v3q0tf42cdlv2rq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASu1SonZ7xl9wdsH4HozqyDk9Fg4OD05E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
